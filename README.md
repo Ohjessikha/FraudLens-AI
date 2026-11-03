@@ -1,9 +1,6 @@
 # FraudLens AI
 ### Intelligent Transaction Fraud Detection with GenAI Explanations
 ## 1. Project Overview
-##python -m venv .venv
-##.\.venv\Scripts\Activate.ps1 
-
 
 This project is an educational fraud detection prototype built using Python, Machine Learning, Streamlit, and Generative AI. It predicts whether a transaction may be fraudulent and generates a simple explanation of the model's prediction using a locally running language model through Ollama.
 
